@@ -1,0 +1,14 @@
+Biryani
+140
+Pasta
+220
+Pizza
+450
+Burger
+150
+Fries
+140
+Mutton
+650
+Macroni
+520

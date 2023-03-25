@@ -1,0 +1,14 @@
+Chicken + juice
+370
+Chicken + Burger + 7up
+2220
+Pizza + Fries + Coke
+1170
+Zinger + Pasta + String
+2370
+chumin + Mutton + Pepsi
+1420
+Burger + Pizza + Sprite
+1145
+Pasta + Fries + Coke
+1110
